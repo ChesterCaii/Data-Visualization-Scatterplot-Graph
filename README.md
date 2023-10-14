@@ -1,3 +1,3 @@
 # Scatterplot-Graph
 
-You can view it live([https://github.com/ChesterCaii/Scatterplot-Graph/new/main?readme=1]) here 
+You can view it [live here](https://github.com/ChesterCaii/Scatterplot-Graph/edit/main/README.md)
